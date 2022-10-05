@@ -6,6 +6,6 @@
 
 
 # Content Shared
-Servlet File
-Form Component
-Email Experience Fragment
+- Servlet File
+- Form Component
+- Email Experience Fragment
